@@ -229,7 +229,8 @@ color:tan;}
 
     #nav01 form {width:65%;margin-bottom: 10px;}
 
-
+    #we .marquee {width:100% ;height:280px ;}
+    #we .marquee img {margin-top: 0;}
 
     #s-links {padding-left: 20px;}
 
